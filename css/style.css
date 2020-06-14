@@ -1,0 +1,53 @@
+body{
+    background-color: #f8f8ff;
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    text-align: center;
+}
+::placeholder{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+.container{
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0, 0, 0.03);
+    margin-left: 10%;
+    font-family: 'Playfair Display', serif;
+    margin-right: 10%s;
+ width: 80%;
+ justify-content: center;
+}
+.foam1{
+    width: 100%;
+    border:none;
+    text-align: center;
+}
+.foam2{
+    width: 100%;  
+    text-align: center;
+}
+.btn1{
+    text-decoration:none;
+    border-right: none;
+    background-color: #f8f8ff;
+    color: #000;
+    
+    margin-right: 20px;
+    background-color: #3c3c3c;
+    color:#f8f8ff;
+    padding:15px;
+    border-radius: 40px;
+    
+}
+.btn2{
+    text-decoration:none;
+    border-right: none;
+    background-color: #f8f8ff;
+    color: #000;
+    background-color: #3c3c3c;
+    color:#f8f8ff;
+    padding: 15px; 
+    border-radius: 40px; 
+    
+}

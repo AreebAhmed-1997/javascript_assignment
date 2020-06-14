@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: 0em;
+}
+.pic{
+    width: 100%;
+    display: flex;
+}
+.picture{
+   width: 40%;
+   text-align: center;
+   margin-top: 100px;
+  
+    
+}
+.picture1{
+    width: 60%;
+   
+}
